@@ -81,4 +81,6 @@ I also have a personal website where I write about my experiences and thoughts. 
     <img alt="Liquibase" src="https://img.shields.io/badge/Liquibase-000000?style=for-the-badge&logo=liquibase&logoColor=white"/>
 </div>
 
+---
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cdelgado23&show_icons=true&rank_icon=github&theme=transparent)
