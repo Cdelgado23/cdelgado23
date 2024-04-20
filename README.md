@@ -10,7 +10,7 @@ Hello! I am Carlos Delgado, a passionate Software Engineer based anywhere in Ext
 
 I am currently working at **Orquest**, specializing in Cloud and Infrastructure modernization. Software development is not only my job, but also a hobby, so I keep exploring whenever I have the chance. 
 
-When I'm not coding, you'll find me lost playing the piano, in the pages of a good book, enjoying video games, or cuddling with my dogs. 
+When I'm not coding, you'll find me lost playing the piano :musical_keyboard:, in the pages of a good book :books:, enjoying video games :video_game:, or cuddling with my dogs :dog2: :dog2: :dog2:. 
 
 ## Learning about ...
 - Infrastructure as Code
