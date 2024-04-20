@@ -19,6 +19,7 @@ enjoying video games :video_game:, or cuddling with my dogs :dog2: :dog2: :dog2:
 - Event driven architecture in distributed systems.
 
 ## :link: Connect with me
+
 I will be happy to hear from you from any of the following means:
 <div>
     <a href="https://www.linkedin.com/in/cdelgadoguiberteau/">
@@ -40,8 +41,43 @@ I also have a personal website where I write about my experiences and thoughts. 
 
 ## :computer: Programming Languages
 
+<div>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+</div>
+
 ## :cloud: Infrastructure & Cloud
+
+<div>
+<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img alt="Terraform" src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img alt="Terragrunt" src="https://img.shields.io/badge/Terragrunt-623CE4?style=for-the-badge&logo=terragrunt&logoColor=white"/>
+<img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+<img alt="Packer" src="https://img.shields.io/badge/Packer-39457E?style=for-the-badge&logo=packer&logoColor=white"/>
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+</div>
 
 ## :gear: Frameworks
 
+<div>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+    <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+    <img alt="Go-gin" src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+    <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+</div>
+
+## :floppy_disk: Databases
+
+<div>
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+    <img alt="RDS" src="https://img.shields.io/badge/RDS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+    <img alt="Flyway" src="https://img.shields.io/badge/Flyway-525252?style=for-the-badge&logo=flyway&logoColor=white"/>
+    <img alt="Liquibase" src="https://img.shields.io/badge/Liquibase-000000?style=for-the-badge&logo=liquibase&logoColor=white"/>
+</div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cdelgado23&show_icons=true&rank_icon=github&theme=transparent)
