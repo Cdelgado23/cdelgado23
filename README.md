@@ -1,27 +1,7 @@
-<div style="text-align: center; color:#F3890B">
-<section>
+<div>
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=30&duration=3000&color=F3890B&center=false&vCenter=true&width=300&lines=Software+Engineer...;Dog+lover...;Musician...;Reader...;Gamer..." alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=30&duration=5000&color=F3890B&center=false&vCenter=true&width=300&lines=Software+Engineer...;Dog+lover...;Musician...;Reader...;Gamer..." alt="Typing SVG"/>
     </h1>
-</section>
-<section>
-<h1 style="color:#F3890B">Other Header</h1>
-</section>
-<h1>Other Header</h1>
-
-</div>
-
-<div align="center">
-<section>
-    <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=30&duration=3000&color=F3890B&center=false&vCenter=true&width=300&lines=Software+Engineer...;Dog+lover...;Musician...;Reader...;Gamer..." alt="Typing SVG"/>
-    </h1>
-</section>
-<section>
-<h1 style="color:#F3890B">Other Header</h1>
-</section>
-<h1>Other Header</h1>
-
 </div>
 # :wave: About me
 
