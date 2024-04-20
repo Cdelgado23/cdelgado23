@@ -4,7 +4,7 @@
     </h1>
 </div>
 
-Hello! I am Carlos Delgado, a passionate Software Engineer based anywhere in Extremadura, Spain.
+Hello! I am Carlos Delgado, a passionate Software Engineer based somewhere in Extremadura, Spain.
 
 I am currently working at **Orquest**, specializing in Cloud and Infrastructure modernization. Software development is
 not only my job, but also a hobby, so I keep exploring whenever I have the chance.
