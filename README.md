@@ -7,7 +7,7 @@
 Hello! I am Carlos Delgado, a passionate Software Engineer based somewhere in Extremadura, Spain.
 
 I am currently working at **Orquest**, specializing in Cloud and Infrastructure modernization. Software development is
-not only my job, but also a hobby, so I keep exploring whenever I have the chance.
+not only my job, but my hobby, so I keep exploring whenever I have the chance.
 
 When I'm not coding, you'll find me lost playing the piano :musical_keyboard:, in the pages of a good book :books:,
 enjoying video games :video_game:, or cuddling with my dogs :dog2: :dog2: :dog2:.
@@ -48,23 +48,3 @@ I also have a personal website where I write about my experiences and thoughts. 
 
 ## :gear: Frameworks
 
-# :school_satchel: Experience
-
-## :briefcase: Currently
-
-## :trophy: Achievements
-
-<!--
-**Cdelgado23/cdelgado23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
