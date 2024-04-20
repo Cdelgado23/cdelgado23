@@ -3,6 +3,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=30&duration=5000&color=F3890B&center=false&vCenter=true&width=300&lines=Software+Engineer...;Dog+lover...;Musician...;Reader...;Gamer..." alt="Typing SVG"/>
     </h1>
 </div>
+
 # :wave: About me
 
 Hello! I am Carlos Delgado, a passionate Software Engineer based anywhere in Extremadura, Spain.
@@ -20,8 +21,26 @@ enjoying video games :video_game:, or cuddling with my dogs :dog2: :dog2: :dog2:
 - Event driven architecture in distributed systems.
 
 ## :link: Connect with me
+I will be happy to hear from you from any of the following means:
+<div>
+    <a href="https://www.linkedin.com/in/cdelgadoguiberteau/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:cdelgadoguiberteau@gmail.com">
+        <img src="https://img.shields.io/badge/email-34A853?style=for-the-badge&logo=globe&logoColor=white" alt="Personal web"/>
+    </a>
+</div>
+
+I also have a personal website where I write about my experiences and thoughts. Feel free to check it out!
+<div>
+    <a href="https://cdelgado.guiberteau.tech">
+        <img src="https://img.shields.io/badge/Website-F3890B?style=for-the-badge&logo=globe&logoColor=white" alt="Personal web"/>
+    </a>
+</div>
 
 ## :chart_with_upwards_trend: Github Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cdelgado23&show_icons=true&rank_icon=github&theme=transparent)
 
 # :toolbox: Stack
 
