@@ -36,10 +36,6 @@ I also have a personal website where I write about my experiences and thoughts. 
     </a>
 </div>
 
-## :chart_with_upwards_trend: Github Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cdelgado23&show_icons=true&rank_icon=github&theme=transparent)
-
 # :toolbox: Stack
 
 ## :computer: Programming Languages
@@ -48,3 +44,4 @@ I also have a personal website where I write about my experiences and thoughts. 
 
 ## :gear: Frameworks
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cdelgado23&show_icons=true&rank_icon=github&theme=transparent)
