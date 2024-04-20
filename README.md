@@ -4,8 +4,6 @@
     </h1>
 </div>
 
-# :wave: About me
-
 Hello! I am Carlos Delgado, a passionate Software Engineer based anywhere in Extremadura, Spain.
 
 I am currently working at **Orquest**, specializing in Cloud and Infrastructure modernization. Software development is
