@@ -6,8 +6,7 @@
 
 Hello! I am Carlos Delgado, a passionate Software Engineer based somewhere in Extremadura, Spain.
 
-I am currently working at **Orquest**, specializing in Cloud and Infrastructure modernization. Software development is
-not only my job, but my hobby, so I keep exploring whenever I have the chance.
+I am currently working at **Tymit**, helping define and implement the server side logic of the business processes.
 
 When I'm not coding, you'll find me lost playing the piano :musical_keyboard:, in the pages of a good book :books:,
 enjoying video games :video_game:, or cuddling with my dogs :dog2: :dog2: :dog2:.
